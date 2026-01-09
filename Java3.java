@@ -1,4 +1,4 @@
-public class Programjava2
+public class Java3
 {
 public static void main(String args[])
 {
