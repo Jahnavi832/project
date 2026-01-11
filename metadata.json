@@ -1,8 +1,0 @@
-{
-  "name": "HealthGuard Online",
-  "description": "A comprehensive healthcare platform for virtual consultations, offline appointments, medicine booking, and lab report management.",
-  "requestFramePermissions": [
-    "camera",
-    "geolocation"
-  ]
-}
