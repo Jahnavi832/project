@@ -1,0 +1,9 @@
+{
+  "name": "HealthConnect Plus",
+  "description": "A comprehensive healthcare platform for virtual consultations, offline hospital bookings, medicine ordering, and lab report management.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
