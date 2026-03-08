@@ -19,24 +19,24 @@ HealthConnect is an online healthcare service web application designed to help u
   
 **🛠️ Technologies Used**
 
-**Frontend**
+**Frontend**:
   React
   TypeScript
   HTML
   CSS
   
-**Build Tool**
+**Build Tool**:
   Vite
   
-**Backend (Service Layer)**
+**Backend (Service Layer)**:
   API Services (inside /services folder)
   
 **Data Handling**
   JSON / API Integration
   
 **Other Tools**
-  Git
-  GitHub
+  Git,
+  GitHub,
   VS Code
 
 **link:**
