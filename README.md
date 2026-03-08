@@ -1,24 +1,34 @@
-<<<<<<< HEAD
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+**🏥 HealthConnect**
+**📖 Project Description**
 
-# Run and deploy your AI Studio app
+HealthConnect is an online healthcare service web application designed to help users manage their health services digitally. The platform allows patients to register, log in, book doctor appointments (online and offline), order medicines, upload lab reports, and maintain their personal health profile.The system provides an easy way for users to connect with doctors, receive prescriptions, and get medicines delivered. It also stores medical records so users can access their health information anytime.This project aims to improve accessibility to healthcare services by combining doctor consultation, medicine ordering, and medical record management into a single platform.
 
-This contains everything you need to run your app locally.
+**✨ Features**
 
-View your app in AI Studio: https://ai.studio/apps/drive/1fRquwZcbt9ZPNn4jDrpuwvbMDM6_l8H1
+  User Registration with personal and health details
+  Secure Login system
+  Dashboard for healthcare services
+  Online doctor video consultation
+  Offline hospital appointment booking
+  Doctor prescription generation
+  Medicine ordering and cart system
+  Lab report upload and storage
+  Personal health profile management
+  Appointment reminder notifications
+**🛠️ Technologies Used**
+**Frontend**
+  React
+  TypeScript
+  HTML
+  CSS
+**Build Tool**
+  Vite
+**Backend (Service Layer)**
+  API Services (inside /services folder)
+**Data Handling**
+  JSON / API Integration
+**Other Tools**
+  Git
+  GitHub
+  VS Code
 
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
-=======
-# project
->>>>>>> 179e6a1f3518b537b4b977b9056d141e22b8bec2
