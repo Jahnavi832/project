@@ -7,14 +7,23 @@ HealthConnect is an online healthcare service web application designed to help u
 **✨ Features**
 
   User Registration with personal and health details
+  
   Secure Login system
+  
   Dashboard for healthcare services
+  
   Online doctor video consultation
+  
   Offline hospital appointment booking
+  
   Doctor prescription generation
+  
   Medicine ordering and cart system
+  
   Lab report upload and storage
+  
   Personal health profile management
+  
   Appointment reminder notifications
   
 **🛠️ Technologies Used**
