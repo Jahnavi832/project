@@ -15,18 +15,24 @@ HealthConnect is an online healthcare service web application designed to help u
   Lab report upload and storage
   Personal health profile management
   Appointment reminder notifications
+  
 **🛠️ Technologies Used**
+
 **Frontend**
   React
   TypeScript
   HTML
   CSS
+  
 **Build Tool**
   Vite
+  
 **Backend (Service Layer)**
   API Services (inside /services folder)
+  
 **Data Handling**
   JSON / API Integration
+  
 **Other Tools**
   Git
   GitHub
